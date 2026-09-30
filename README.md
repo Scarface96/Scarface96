@@ -1,4 +1,4 @@
-# Hi there, I'm Scarface96 👋
+# Hi there, I'm Tony Mulunda 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and data analyst with expertise in building web applications, dashboards, and data-driven solutions.
 
