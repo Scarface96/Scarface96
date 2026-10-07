@@ -9,7 +9,7 @@
 <a href="https://github.com/Scarface96?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/tony-mulunda">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
