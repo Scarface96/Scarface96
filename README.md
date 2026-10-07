@@ -1,179 +1,92 @@
-# 👋 Hi there, I'm Tony Mulunda
-
 <div align="center">
 
-**Full-Stack Developer | Data Analyst | Business Intelligence Specialist**
+# Hi, I'm Tony Mulunda 👋
 
-Building innovative solutions that bridge **web development** and **data-driven insights**
+### Data Analyst · Front-End Developer
 
-[Explore My Work](#-projects-by-category) • [Let's Connect](#-lets-connect)
+I turn raw data into dashboards and decisions, and build the web interfaces people use to see it.
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🧭 What I do
 
-I'm a versatile developer and data analyst passionate about creating **full-stack web applications**, **interactive dashboards**, and **data-driven solutions**. I combine technical expertise with business acumen to deliver projects that are both functional and insightful.
-
-**What drives me:**
-- 💡 Solving complex problems with elegant code
-- 📊 Transforming raw data into actionable insights
-- 🎨 Creating beautiful, user-friendly interfaces
-- 🚀 Building scalable applications that matter
+- **Analyse data** with SQL and Python: cleaning, exploring and answering real business questions
+- **Build dashboards** in Power BI, Tableau and Excel that put the key numbers on one page
+- **Model and predict** with scikit-learn, for example classifying which bank customers are likely to leave
+- **Build web apps** with React, JavaScript and Firebase, from landing pages to apps with logins
 
 ---
 
-## 🛠️ Tech Stack
+## ⭐ Featured work
 
-<table>
-<tr>
-<td width="50%">
+### 📊 Data analytics & BI
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+| Project | Tools | Highlights |
+|---|---|---|
+| **[Bank Customer Churn Classification](https://github.com/Scarface96/Bank-Customer-Churn-Classification)** | Python · scikit-learn | Predicts churn for 10,000 customers. A tuned random forest reaches **86% test accuracy**, and threshold tuning doubled churn recall for logistic regression |
+| **[Toy Store KPI Report](https://github.com/Scarface96/Toy-Store-KPI-Report)** | Power BI · DAX | Star-schema model over **829K sales** across 50 stores, with KPI cards for orders, revenue and profit and drill-down trends |
+| **[Restaurant Order Analysis](https://github.com/Scarface96/Restaurant-Order-Analysis)** | MySQL | 12K ordered items analysed with joins and aggregations. Found that top-spending customers favour Italian dishes |
+| **[B2B Sales Pipeline Dashboard](https://github.com/Scarface96/B2B-Sales-Pipeline-CRM-Dashboard-for-TechSolutions-Inc.)** | Excel | Quarterly pipeline view of 8,800 opportunities, using PivotTables with manager and region slicers |
+| **[Global CO₂ Emissions Dashboard](https://github.com/Scarface96/Global-CO2-Emissions-Dashboard)** | Tableau | Map, trend and scatter views of emissions for 278 countries, 1750–2021 |
+| **[HR Analytics Dashboard](https://github.com/Scarface96/HR-Analysis-Dashboard)** | Tableau | Attrition breakdowns by department, age, gender and education for 1,470 employees |
+| **[Airbnb Listings Analysis](https://github.com/Scarface96/AirBnB-Listing-Analysis-Review)** | Python · pandas | Paris pricing by neighbourhood and capacity, and how the 2015 regulations slowed new hosts |
+| **[Retail Sales Analysis](https://github.com/Scarface96/sql_retail_sales_p1)** | PostgreSQL | End-to-end SQL project covering database setup, cleaning, EDA and business questions |
+| **[COVID-19 Data Exploration](https://github.com/Scarface96/covid-project)** | SQL Server | Infection, death and vaccination trends using CTEs, temp tables and window functions |
+
+### 💻 Web development
+
+| Project | Tools | Highlights |
+|---|---|---|
+| **[Netflix Clone](https://github.com/Scarface96/netflix-clone)** | React · Tailwind · Firebase | Sign-up and login, live movie rows from the TMDB API, and a saved-shows list stored in Firestore |
+| **[KAIDIS Coffee Shop](https://github.com/Scarface96/KAIDIS--Coffee-Shop)** · [**Live site ↗**](https://scarface96.github.io/KAIDIS--Coffee-Shop/) | HTML · CSS · JavaScript | Responsive café website, deployed automatically with GitHub Actions |
+| **[Movie App](https://github.com/Scarface96/movie-app)** | React · OMDb API | Search-as-you-type movie search with a details panel |
+| **[Weather React App](https://github.com/Scarface96/weather-react-app)** | React · OpenWeatherMap | Current weather, sunrise and sunset, humidity, wind and pressure for any city |
+| **[Red Light, Green Light](https://github.com/Scarface96/squid-game)** | Three.js · GSAP | Two-player 3D browser game |
+| **[E-commerce Landing Page](https://github.com/Scarface96/e-commerce-landing-page)** | HTML · CSS · JavaScript | Multi-page storefront with product pages and a cart |
+
+<details>
+<summary><b>More projects</b></summary>
+<br>
+
+**Web:** [Payroll Web App](https://github.com/Scarface96/payroll-web-app) · [To-Do List](https://github.com/Scarface96/TO-DO-LIST-MAIN) · [Weather Web App](https://github.com/Scarface96/weather-web-app) · [Restaurant Burger House](https://github.com/Scarface96/Restaurant-burger-house) · [Lussagi Agency Website](https://github.com/Scarface96/Lusagi-website) · [BMI Calculator](https://github.com/Scarface96/bmi-calculator) · [Analog Clock](https://github.com/Scarface96/clock-app) · [Survey Form](https://github.com/Scarface96/survey-form) · [Tribute Page](https://github.com/Scarface96/tribute-page)
+
+**Python:** [Choose Your Adventure](https://github.com/Scarface96/choose-adventure) · [Rock Paper Scissors](https://github.com/Scarface96/rock-paper-scissors)
+
+</details>
+
+---
+
+## 🛠️ Tools I use
+
+**Data & analytics**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Web development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Backend & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-</td>
-<td width="50%">
-
-### Data & Analytics
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Visualization-4285F4?style=flat-square&logo=google-analytics&logoColor=white)
-
-### Tools & Platforms
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 🚀 Featured Projects
+## 🤝 Open to
 
-### 📱 Web Applications & Frontend
+Data analyst and BI roles, dashboard and reporting projects, and front-end work. Feel free to open an issue on any repo or reach out through the contact details on my profile.
 
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| **[Netflix Clone](https://github.com/Scarface96/netflix-clone)** | JavaScript, React | Full-featured streaming platform UI with dynamic content loading |
-| **[Weather React App](https://github.com/Scarface96/weather-react-app)** | React, API Integration | Real-time weather forecasting with interactive components |
-| **[Movie App](https://github.com/Scarface96/movie-app)** | JavaScript, DOM | Interactive movie discovery platform with search functionality |
-| **[E-commerce Landing Page](https://github.com/Scarface96/e-commerce-landing-page)** | HTML, CSS | Modern, responsive product showcase landing page |
-| **[BMI Calculator](https://github.com/Scarface96/bmi-calculator)** | JavaScript | Interactive health metric calculator |
-
-### 📊 Data Analytics & Business Intelligence
-
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| **[HR Analysis Dashboard](https://github.com/Scarface96/HR-Analysis-Dashboard)** | SQL, Power BI | Employee metrics, retention analysis, and organizational insights |
-| **[Global CO2 Emissions Dashboard](https://github.com/Scarface96/Global-CO2-Emissions-Dashboard)** | Data Analytics | Environmental impact visualization and trend analysis |
-| **[B2B Sales Pipeline CRM Dashboard](https://github.com/Scarface96/B2B-Sales-Pipeline-CRM-Dashboard-for-TechSolutions-Inc.)** | SQL, Analytics | Sales performance tracking and pipeline management |
-| **[Restaurant Order Analysis](https://github.com/Scarface96/Restaurant-Order-Analysis)** | SQL, Data Analysis | Business KPIs and operational insights |
-| **[SQL Retail Sales Analysis](https://github.com/Scarface96/sql_retail_sales_p1)** | PostgreSQL, SQL | End-to-end retail data analysis with KPI reporting |
-
-### 🤖 Machine Learning & Predictive Analytics
-
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| **[Bank Customer Churn Classification](https://github.com/Scarface96/Bank-Customer-Churn-Classification)** | Python, ML | Predictive model for customer retention optimization |
-| **[AirBnB Listing Analysis](https://github.com/Scarface96/AirBnB-Listing-Analysis-Review)** | Jupyter, Python | Market data analysis and pricing insights |
-| **[Customer Purchase Behavior](https://github.com/Scarface96/Customer_purchase_behaviour)** | Data Analysis | Consumer behavior patterns and segmentation |
-
-### 🎮 Interactive & Educational Projects
-
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| **[Squid Game](https://github.com/Scarface96/squid-game)** | JavaScript | Interactive gaming application |
-| **[Rock Paper Scissors](https://github.com/Scarface96/rock-paper-scissors)** | Python | Classic game with AI opponent |
-| **[Choose Your Adventure](https://github.com/Scarface96/choose-adventure)** | Python | Text-based interactive adventure game |
-| **[Number Guessing Game](https://github.com/Scarface96/number-guessing-game)** | JavaScript | Logic-building game application |
-
-### 🏢 Business & Utility Applications
-
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| **[Payroll Web App](https://github.com/Scarface96/payroll-web-app)** | JavaScript | Employee payroll management system |
-| **[TO-DO List](https://github.com/Scarface96/TO-DO-LIST-MAIN)** | HTML, CSS, JavaScript | Task management application |
-| **[KAIDIS Coffee Shop](https://github.com/Scarface96/KAIDIS--Coffee-Shop)** | HTML, CSS | Business website and menu showcase |
-| **[Restaurant Burger House](https://github.com/Scarface96/Restaurant-burger-house)** | HTML, CSS | Restaurant landing page |
-
----
-
-## 📈 Skills Breakdown
-
-**Web Development**
-- Full-stack application development
-- Responsive UI/UX design
-- Frontend frameworks & libraries (React)
-- Backend development (Python, Node.js)
-- Database design and optimization
-
-**Data Analytics**
-- Exploratory Data Analysis (EDA)
-- Business Intelligence dashboards
-- Data visualization & storytelling
-- KPI development and reporting
-- Predictive modeling
-
-**Business Acumen**
-- Sales pipeline analysis
-- Customer behavior analytics
-- HR metrics and optimization
-- Retail performance analysis
-- Market research and insights
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced React patterns and performance optimization
-- Cloud deployment and DevOps practices
-- Advanced SQL and database optimization
-- Machine learning frameworks and applications
-- Data engineering pipelines
-
----
-
-## 💼 Collaboration & Opportunities
-
-I'm always excited to collaborate on:
-- ✅ Full-stack web development projects
-- ✅ Data analysis and visualization initiatives
-- ✅ Dashboard development and BI solutions
-- ✅ Business intelligence applications
-- ✅ Open-source contributions
-
----
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-**Let's build something amazing together!**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Scarface96)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
-</div>
-
----
-
-<div align="center">
-
-**Thanks for visiting! Feel free to explore my repositories, and don't hesitate to reach out for collaboration opportunities.** 🚀
-
-*Last updated: October 2026*
-
-</div>
