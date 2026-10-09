@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-labelledby="t d">
+<title id="t">Featured project: Bank Customer Churn</title>
+<desc id="d">The riskiest 20% of customers hold 62% of everyone who leaves. Gradient boosting reaches ROC AUC 0.86 across 10,000 customers. Bars show churn rate by predicted-risk decile, from 84% in the riskiest tenth down to 2%.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#1e1b4b"/></linearGradient>
+<linearGradient id="hot" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+</defs>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.label{fill:#93c5fd;font-size:15px;font-weight:600}
+.title{fill:#fff;font-size:31px;font-weight:800;letter-spacing:-.5px}
+.lede{fill:#cbd5e1;font-size:17px}
+.lede tspan.em{fill:#fff;font-weight:700}
+.num{fill:#fff;font-size:28px;font-weight:800}
+.cap{fill:#94a3b8;font-size:13px}
+.stack{fill:#64748b;font-size:13px}
+.tick{fill:#64748b;font-size:12px}
+.axis{fill:#94a3b8;font-size:12.5px}
+.bar{fill:#334155;transform-box:fill-box;transform-origin:50% 100%;animation:grow .9s cubic-bezier(.2,.8,.2,1) both}
+.bar.hot{fill:url(#hot)}
+.fade{animation:fade .6s ease-out 1.3s both}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.bar,.fade{animation:none}}
+</style>
+<rect width="840" height="300" rx="16" fill="url(#bg)"/>
+<text class="label" x="40" y="54">Featured project</text>
+<text class="title" x="40" y="94">Bank Customer Churn</text>
+<text class="lede" x="40" y="132">The riskiest <tspan class="em">20%</tspan> of customers hold</text>
+<text class="lede" x="40" y="156"><tspan class="em">62%</tspan> of everyone who leaves.</text>
+<text class="num" x="40" y="214">0.86</text><text class="cap" x="40" y="234">ROC AUC</text>
+<text class="num" x="150" y="214">4</text><text class="cap" x="150" y="234">models compared</text>
+<text class="num" x="290" y="214">10K</text><text class="cap" x="290" y="234">customers</text>
+<text class="stack" x="40" y="272">Python, scikit-learn, Plotly, GitHub Actions</text>
+<text class="axis" x="488" y="50">Churn rate by predicted-risk decile</text>
+<rect class="bar hot" style="animation-delay:0.25s" x="488.0" y="86.4" width="24.0" height="159.6" rx="3"/><text class="tick" x="500.0" y="264" text-anchor="middle">1</text><rect class="bar hot" style="animation-delay:0.32s" x="520.0" y="165.7" width="24.0" height="80.3" rx="3"/><text class="tick" x="532.0" y="264" text-anchor="middle">2</text><rect class="bar" style="animation-delay:0.39s" x="552.0" y="196.3" width="24.0" height="49.7" rx="3"/><text class="tick" x="564.0" y="264" text-anchor="middle">3</text><rect class="bar" style="animation-delay:0.46s" x="584.0" y="210.6" width="24.0" height="35.4" rx="3"/><text class="tick" x="596.0" y="264" text-anchor="middle">4</text><rect class="bar" style="animation-delay:0.53s" x="616.0" y="226.9" width="24.0" height="19.1" rx="3"/><text class="tick" x="628.0" y="264" text-anchor="middle">5</text><rect class="bar" style="animation-delay:0.60s" x="648.0" y="229.8" width="24.0" height="16.2" rx="3"/><text class="tick" x="660.0" y="264" text-anchor="middle">6</text><rect class="bar" style="animation-delay:0.67s" x="680.0" y="233.6" width="24.0" height="12.4" rx="3"/><text class="tick" x="692.0" y="264" text-anchor="middle">7</text><rect class="bar" style="animation-delay:0.74s" x="712.0" y="238.4" width="24.0" height="7.6" rx="3"/><text class="tick" x="724.0" y="264" text-anchor="middle">8</text><rect class="bar" style="animation-delay:0.81s" x="744.0" y="240.3" width="24.0" height="5.7" rx="3"/><text class="tick" x="756.0" y="264" text-anchor="middle">9</text><rect class="bar" style="animation-delay:0.88s" x="776.0" y="243.1" width="24.0" height="2.9" rx="3"/><text class="tick" x="788.0" y="264" text-anchor="middle">10</text>
+<g class="fade">
+<line x1="484" x2="804" y1="207.0" y2="207.0" stroke="#94a3b8" stroke-width="1" stroke-dasharray="3 4"/>
+<text class="axis" x="800" y="201.0" text-anchor="end">bank average 20%</text>
+<text x="500.0" y="78.4" text-anchor="middle" style="fill:#fff;font-size:14px;font-weight:700">84%</text>
+</g>
+<text class="tick" x="488" y="282">riskiest</text><text class="tick" x="800" y="282" text-anchor="end">safest</text>
+</svg>
